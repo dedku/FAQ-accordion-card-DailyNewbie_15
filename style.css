@@ -82,8 +82,8 @@ svg {
 
 /* general */
 body {
-    font-family: 'Karla', sans-serif;
-    font-size: var(--fs-400);
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: var(--fs-200);
 }
 
 main,
